@@ -1,3 +1,10 @@
 # TP_Docker_devops
 
-![image](https://user-images.githubusercontent.com/82937499/172068884-79f100e4-ac3d-4566-bb2d-9a40e59f4346.png | width=50)
+# Contenu du projet :
+
+- Rapport en pdf qui explique le code, commande. 
+
+- Bonus : fait !
+
+- Lien Docker Hub repository : https://hub.docker.com/repository/docker/anaszaghloul/tp1
+
